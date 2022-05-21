@@ -1,0 +1,1 @@
+bowser Assets/Sprites/BowserSheet.png 9 16 1 6

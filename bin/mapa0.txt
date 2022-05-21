@@ -1,0 +1,26 @@
+9
+chao Assets/Tiles/chao.png 1 1
+parede Assets/Tiles/parede.png 1 1
+vazio Assets/Tiles/vazio.png 1 1
+inicioA Assets/Tiles/chao.png 1 1
+inicioB Assets/Tiles/chao.png 1 1
+inicioC Assets/Tiles/chao.png 1 1
+inicioD Assets/Tiles/chao.png 1 1
+inicioE Assets/Tiles/chao.png 1 1
+armadilha Assets/Tiles/armadilha.jpg 1 1
+
+
+13 16
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 0 0 0 6 0 0 0 0 1 
+1 0 0 1 1 0 8 0 0 0 0 0 1 1 0 1  
+1 5 0 1 1 0 0 8 1 1 1 1 1 1 1 1 
+1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 1 
+1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 1 0 4 0 0 0 7 0 0 0 0 3 0 0 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 

@@ -1,0 +1,13 @@
+﻿  Personagem.cpp
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(15): warning C4305: '=': truncamento de 'double' para 'float'
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(37): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(38): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(39): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(40): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(208): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(209): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(210): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+e:\libuniscornio\projetos\marioarena- valendo 5\personagem.cpp(211): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  base.vcxproj -> E:\LibUniscornio\projetos\MarioArena- Valendo 5\bin\base-debug.exe
+  base.vcxproj -> E:\LibUniscornio\projetos\MarioArena- Valendo 5\bin\base-debug.pdb (Full PDB)

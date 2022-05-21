@@ -1,3 +1,4 @@
 .vs/base/v15/ipch/AutoPCH/cbc670475d189e4c/JOGO.ipch[[:space:]] filter=lfs diff=lfs merge=lfs -text
 [[:space:]].vs/base/v15/ipch/AutoPCH/5ee48905e6860ee6/PEACH.ipch filter=lfs diff=lfs merge=lfs -text
 .vs/base/v15/ipch/AutoPCH/906d9ec21f7033da/PERSONAGEM.ipch filter=lfs diff=lfs merge=lfs -text
+*.c++ linguist-detectable=true
